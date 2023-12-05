@@ -1,1 +1,2 @@
 # practiceGit
+ auther : juned khan 
